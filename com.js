@@ -3,12 +3,12 @@ function product_1(){
     var rehman=document.getElementById("text")
     if(name=="Sana Safinaz Botique"){
         document.getElementById("img_1").src="image.jpg"
-        rehman.innerHTML="<li style='color:red;font-style:bold;font-size:25px'>Name:- Sana Safinaz Botique </li> <li  style='color:red;font-style:bold;font-size:25px'>Price:- RS:25000 </li><li  style='color:red;font-style:bold;font-size:25px;text-align: justify;'>Sana Safinaz is a renowned Pakistani fashion brand, known for its elegant and luxurious designs. The brand offers a wide range of ready-to-wear and bridal collections that blend traditional craftsmanship with modern trends. With its high-quality fabrics and exquisite stitching, Sana Safinaz has become a symbol of sophistication in the fashion industry.</li> "
+        rehman.innerHTML="<li style='color:black;font-style:bold;font-size:25px'>Name:- Sana Safinaz Botique </li> <li  style='color:black;font-style:bold;font-size:25px'>Price:- RS:25000 </li><li  style='color:black;font-style:bold;font-size:25px;text-align: justify;'>Sana Safinaz is a renowned Pakistani fashion brand, known for its elegant and luxurious designs. The brand offers a wide range of ready-to-wear and bridal collections that blend traditional craftsmanship with modern trends. With its high-quality fabrics and exquisite stitching, Sana Safinaz has become a symbol of sophistication in the fashion industry.</li> "
         
     }
     else if(name=="Elan Botique"){
         document.getElementById("img_1").src="img3.webp"
-        rehman.innerHTML="<li  style='color:red;font-style:bold;font-size:25px'>Name:- Elan Botique </li> <li  style='color:red;font-style:bold;font-size:25px'>Price:- RS:30000 </li><li  style='color:red;font-style:bold;font-size:25px;text-align: justify;'>Elan Boutique is a premium fashion brand known for its chic and contemporary designs, offering a blend of traditional and modern styles. It specializes in exquisite couture, luxury prêt, and bridal collections, perfect for every occasion. The boutique is celebrated for its fine craftsmanship, rich fabrics, and attention to detail.</li>"
+        rehman.innerHTML="<li  style='color:black;font-style:bold;font-size:25px'>Name:- Elan Botique </li> <li  style='color:black;font-style:bold;font-size:25px'>Price:- RS:30000 </li><li  style='color:black;font-style:bold;font-size:25px;text-align: justify;'>Elan Boutique is a premium fashion brand known for its chic and contemporary designs, offering a blend of traditional and modern styles. It specializes in exquisite couture, luxury prêt, and bridal collections, perfect for every occasion. The boutique is celebrated for its fine craftsmanship, rich fabrics, and attention to detail.</li>"
     }
     else if(name=="HSY Botique"){
         document.getElementById("img_1").src="image4.jpg"

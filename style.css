@@ -1,8 +1,8 @@
 #a{
     height: 70px;
 }
-.c{
-    background-image: linear-gradient(to right, rgb(173, 51, 51) , rgb(149, 61, 79));
+#c{
+    background-color:  rgb(62, 59, 59);
 }
 #d{
     height: 400px;
@@ -52,3 +52,25 @@ img{
  .m{
     margin-left: 300px;
  }
+ footer{
+
+    background-color: rgb(147, 145, 145);
+ }
+#colo{
+    color:rgb(91, 88, 88);
+}
+#k{
+    background-color: rgb(102, 93, 93);
+}
+
+
+
+
+
+
+
+
+
+
+
+ 
